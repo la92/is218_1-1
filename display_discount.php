@@ -41,7 +41,7 @@
 		<span><?php echo $discount_formatted; ?></span><br>
 
 		<label>Discount Price:</label>
-		<span><?php echo $discount_price_formatter; ?></span><br>
+		<span><?php echo $discount_price_formatted; ?></span><br>
 	</main>
 </body>
 </html>
